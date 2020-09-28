@@ -33,7 +33,7 @@ cd && GO111MODULE=on go get github.com/transcend-io/terragrunt-atlantis-config@m
 Alternative: Install a stable versions via Homebrew:
 
 ```bash
-brew install transcend-io/tap/terragrunt-atlantis-config
+brew install terragrunt-atlantis-config
 ```
 
 This module officially supports golang versions v1.13, v1.14, and v1.15
